@@ -9,8 +9,8 @@
 Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken, Germany  
 
 <p align="center">
-  <a href="assets/teaser.pdf">
-    <img src="assets/teaser.svg" width="90%">
+  <a href="assets/teaser.png">
+    <img src="assets/teaser.png" width="100%">
   </a>
 </p>
 
