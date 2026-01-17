@@ -40,8 +40,7 @@ On benchmark data, we show that INSIGHT provides performance on classification a
 
 ---
 ## Code
-
-This repository serves as a **placeholder** for the INSIGHT project.  
+ 
 Code is available soon, stay tuned!
 
 ---
