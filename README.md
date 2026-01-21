@@ -16,7 +16,8 @@ Max Planck Institute for Informatics, Saarland Informatics Campus, Saarbrücken,
 
 ---
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.13798-b31b1b.svg)](https://arxiv.org/abs/2601.13798)
+
 
 ---
 
@@ -52,7 +53,7 @@ If you find this work useful, please cite the arXiv preprint:
 @article{wittenmayer2026insight,
   title  = {Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders},
   author = {Wittenmayer, Kai and Rao, Sukrut and Parchami-Araghi, Amin and Schiele, Bernt and Fischer, Jonas},
-  journal= {arXiv},
+  journal = {arXiv preprint arXiv:2601.13798},
   year   = {2026}
 }
 ```
